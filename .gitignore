@@ -1,0 +1,19 @@
+# Compiled Java files
+*.class
+
+# Build folders
+build/
+dist/
+out/
+
+# VS Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+
+# NetBeans
+nbproject/private/
+
+# Log files
+*.log
